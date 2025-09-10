@@ -1,4 +1,4 @@
-# Mushroom soup recipe
+# Mushroom soup recipe 🍄🍄
 
 
 ## Ingredients
