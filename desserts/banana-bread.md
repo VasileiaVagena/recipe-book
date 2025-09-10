@@ -1,4 +1,5 @@
-# The best Banana Bread
+# The best Banana Bread 🍌🎯
+
 
 ## Ingredients
 * 1 1/2 Cups – Mashed Bananas (RIPE) – 345 grams 
