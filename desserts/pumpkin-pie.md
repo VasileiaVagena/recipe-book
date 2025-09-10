@@ -1,7 +1,7 @@
-# Pumpkin pie recipe 🎃
+# Pumpkin pie recipe 
 
 
-## Preparation
+## Preparation 
 
 - Remove seeds
 - Bake pumpkin/squash
