@@ -16,3 +16,10 @@ towards the template repository.
 - [mains](mains)
 - [sides](sides)
 - [desserts](desserts)
+
+
+## Build website
+
+- main branch version of this fork, see at: 
+
+See instructions: https://github.com/enryH/notes_template
