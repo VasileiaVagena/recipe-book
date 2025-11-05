@@ -45,5 +45,6 @@ soups/*
 :maxdepth: 1
 :caption: Desserts
 
-desserts/*
+desserts/
+desserts/banana-bread*
 ```
