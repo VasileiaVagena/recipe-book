@@ -13,3 +13,4 @@
 ## Instructions:
 
 1. Mix the water, salt, flour, and melted butter.
+2. Use magic wand to create enhanced flavour!
