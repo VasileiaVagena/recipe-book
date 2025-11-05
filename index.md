@@ -17,6 +17,7 @@ and merging. Feel free to contribute your own recipes by creating a pull request
 
 mains/Chifrijo-caribeno
 mains/vegetarian-lasagna
+mains/arepas #HERE GOES THE INDEX
 mains/quiche
 pasta/newpasta
 pasta/boscaiola
