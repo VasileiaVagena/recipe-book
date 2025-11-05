@@ -18,7 +18,7 @@ and merging. Feel free to contribute your own recipes by creating a pull request
 mains/vegetarian-lasagna
 pasta/boscaiola
 pasta/dumplings
-desserts/banana-bread
+pasta/dumplings_vegi
 ```
 
 ```{toctree}
