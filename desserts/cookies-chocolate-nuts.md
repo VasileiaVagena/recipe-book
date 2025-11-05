@@ -11,8 +11,8 @@
 - 1 tsp baking powder
 - 0.5 tsp vanilla sugar
 - 0.5 tsp flaky salt
-- 100 g hazelnuts
-- 100 g dark chocolate, roughly chopped
+- 130 g hazelnuts
+- 130 g dark chocolate, roughly chopped
 
 
 ## Instructions
