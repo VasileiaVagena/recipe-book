@@ -2,7 +2,7 @@
 
 
 ## Ingredients
-250g mascarpone cheese 
+250g mascarpone cheese good
 3 big spoons of sugar
 2 eggs
 2 big spoons of sugar per egg (in the coffee)
