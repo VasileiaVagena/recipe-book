@@ -1,5 +1,3 @@
-New dessert added to recipe
-
 ## Ingredients
 
 2 Packungen Raffaello (à 230 g)
