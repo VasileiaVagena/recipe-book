@@ -46,5 +46,5 @@ soups/*
 :caption: Desserts
 
 desserts/
-desserts/banana-bread*
+desserts/banana-bread
 ```
