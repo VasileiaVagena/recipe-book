@@ -9,13 +9,13 @@
 - 250 g melted butter
 - 30 g roughly chopped dark chocolate
 
-#### Cream:
+### Cream:
 - 200 g sifted powdered sugar
 - 75 g room-temperature butter
 - 30 g sifted cocoa powder
 - 150 g cold cream cheese
 
-## Method
+## Instructions
 1. Preheat the oven to 170°C (not fan-assisted).
 2. In a large bowl, whisk together the eggs and sugar until light and fluffy.
 3. Add the flour and cocoa powder, and whisk until everything is well combined.
@@ -25,7 +25,7 @@
 7. Bake for 30–35 minutes, or until the top is set but the brownie is still soft in the middle.
 8. Let the brownie cool completely.
 
-#### For the cream:
+### For the cream:
 9. Whisk together the powdered sugar, butter, and cocoa at medium speed until well combined and smooth.
 10. Add the cream cheese all at once and mix until fully incorporated.
 11. Increase to medium-high speed and beat until the frosting is light and fluffy, at least 5 minutes — but be careful not to overmix.
