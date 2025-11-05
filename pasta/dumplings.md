@@ -4,12 +4,12 @@
 
 (For 4 People)
 
-- Minced beef 500g (>15% fat) - or any other meat
-- Carrot 500g
+- Minced beef 500gr (>15% fat) - or any other meat
+- Carrot 500gr
 - Mushrooms 6 pieces
 - Egg white: 2–3 teaspoons or from 2 eggs (only for meat dumplings)
 - Spring onions 6 pieces
-- Ginger 15g
+- Ginger 15gr
 - Fine salt 3 teaspoons
 - Soy sauce 2 teaspoons
 - Dumpling wrappers 2 packages (you can buy them from any Asian supermarket)
