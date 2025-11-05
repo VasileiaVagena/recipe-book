@@ -18,6 +18,7 @@ and merging. Feel free to contribute your own recipes by creating a pull request
 mains/vegetarian-lasagna
 pasta/boscaiola
 pasta/dumplings
+desserts/banana-bread
 ```
 
 ```{toctree}
@@ -45,6 +46,5 @@ soups/*
 :maxdepth: 1
 :caption: Desserts
 
-desserts/
-desserts/banana-bread
+desserts/*
 ```
